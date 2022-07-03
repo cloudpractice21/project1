@@ -10,5 +10,5 @@ class Mobiles:
         print("...................")
 
 for i in range(5): 
-    obj=Mobiles("Applesr","I10","20000")
+    obj=Mobiles("Applesr","I10","300000")
     obj.disp()
